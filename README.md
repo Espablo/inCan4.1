@@ -3,6 +3,8 @@ https://a360.co/3aHFttI
 
 ![inCan Obudowa](https://github.com/Espablo/inCan4.1/blob/master/incan4.1_obudowa.jpg "Schemat")
 
+https://a360.co/3b4m3z8
+
 ![inCan Schemat](https://github.com/Espablo/inCan4.1/blob/master/inCan_4.1.png "Schemat")
 ![inCan TOP_PCB](https://github.com/Espablo/inCan4.1/blob/master/Supla_inCan_4.1_pcb.png "TOP_PCB")
 ![inCan TOP_PCB](https://github.com/Espablo/inCan4.1/blob/master/Supla_inCan_4.1_pcb2.png "TOP_PCB")
